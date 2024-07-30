@@ -20,4 +20,4 @@ function gradingStudents(grades) {
 }
 
 const result = gradingStudents([41, 73, 75]);
-console.log(result);
+console.log(result); // Output: [41, 75, 75]    
